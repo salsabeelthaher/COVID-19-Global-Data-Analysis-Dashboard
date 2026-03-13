@@ -9,7 +9,7 @@ The report provides an intuitive interface that helps users quickly understand t
 
 ## Dashboard Preview
 
-![COVID Dashboard](Screenshot 2026-03-11 221532.png)
+![COVID Dashboard](covid-dashboard.png)
 
 ---
 
@@ -74,7 +74,7 @@ Key analysis techniques include:
 This repository contains:
 
 - `COVID_Dashboard.pbix` – Power BI report file  
-- `Screenshot 2026-03-11 221532.png` – dashboard preview image
+- `covid-dashboard.png` – dashboard preview image
 
 ---
 
@@ -89,4 +89,4 @@ This project demonstrates several data analytics skills:
 ---
 
 ## Project Type
-Data Visualization Project using Microsoft Power BI
+Data Visualization Project using Power BI
