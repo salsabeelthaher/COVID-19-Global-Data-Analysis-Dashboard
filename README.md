@@ -9,7 +9,7 @@ The report provides an intuitive interface that helps users quickly understand t
 
 ## Dashboard Preview
 
-![COVID Dashboard]("Screenshot 2026-03-11 221532.png")
+![COVID Dashboard](Screenshot 2026-03-11 221532.png)
 
 ---
 
