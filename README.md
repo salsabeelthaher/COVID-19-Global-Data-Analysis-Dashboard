@@ -1,38 +1,92 @@
-# COVID-19 Global Data Analysis Dashboard
+# COVID-19 Global Data Analysis Dashboard – Power BI
 
-This project presents an interactive data analysis dashboard built using Power BI to explore global COVID-19 statistics.
+## Overview
+This project presents an interactive dashboard built using Microsoft Power BI to analyze global COVID-19 statistics. The dashboard visualizes key metrics such as total confirmed cases, recoveries, and deaths, allowing users to explore pandemic trends across different countries and continents.
 
-The dashboard visualizes worldwide COVID-19 data including total cases, recoveries, deaths, and new cases. It allows users to interact with the data and filter results by continent or country to analyze trends and comparisons.
+The report provides an intuitive interface that helps users quickly understand the global spread of COVID-19 through interactive charts, tables, and geographic visualizations.
+
+---
+
+## Dashboard Preview
+
+![COVID Dashboard]("Screenshot 2026-03-11 221532.png")
+
+---
+
+## Project Objectives
+The objective of this project is to transform raw COVID-19 data into meaningful insights through interactive data visualization.
+
+Key goals include:
+
+- Visualizing global COVID-19 statistics
+- Comparing cases, recoveries, and deaths across countries
+- Analyzing the distribution of cases by continent
+- Providing interactive filtering for geographic analysis
+
+---
+
+## Key Metrics
+The dashboard highlights several important indicators:
+
+- **Total Cases**
+- **Total Recovered**
+- **Total Deaths**
+- **New Cases**
+
+These KPIs allow quick monitoring of the pandemic situation worldwide.
+
+---
 
 ## Dashboard Features
+The report includes multiple interactive visualizations:
 
-- Global overview of COVID-19 statistics
-- Interactive world map showing case distribution
-- Country-level case data table
-- Cases aggregated by continent
+- KPI cards displaying global statistics
+- World map visualization showing case distribution
+- Country-level data table
+- Bar chart comparing total cases by continent
 - Dynamic filtering by continent or country
-- Automatic update of all metrics based on selected filters
 
-## Key Metrics Displayed
+When a user selects a specific continent or country, all dashboard metrics update automatically to reflect the selected data.
 
-- Total Cases
-- Total Recovered
-- Total Deaths
-- New Cases
+---
 
-## Interactivity
+## Data Analysis
+The dashboard uses Power BI data modeling and calculated measures to analyze pandemic data and generate meaningful visual insights.
 
-Users can click on a **continent or country**, and the dashboard automatically updates all charts, maps, and statistics to reflect the selected region.
+Key analysis techniques include:
 
-This enables quick comparison of COVID-19 impact across different regions of the world.
+- Data aggregation by country
+- Geographic visualization using map charts
+- Comparative analysis by continent
+- Interactive filtering for dynamic insights
 
-## Tools Used
+---
 
-- Power BI
+## Tools & Technologies
+- Microsoft Power BI
 - Data Visualization
-- Interactive Dashboard Design
-- Data Filtering and Aggregation
+- Data Modeling
+- Interactive Dashboards
 
-## Project Goal
+---
 
-The goal of this project is to demonstrate data visualization and interactive dashboard design skills by transforming raw COVID-19 data into clear and insightful visual reports.
+## Files Included
+This repository contains:
+
+- `COVID_Dashboard.pbix` – Power BI report file  
+- `Screenshot 2026-03-11 221532.png` – dashboard preview image
+
+---
+
+## Skills Demonstrated
+This project demonstrates several data analytics skills:
+
+- Data visualization
+- Interactive dashboard development
+- Geographic data analysis
+- Business intelligence reporting
+
+---
+
+## Project Type
+Data Visualization Project using Microsoft Power BI
